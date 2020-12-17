@@ -1,4 +1,6 @@
 module.exports = {
   Open: require('./open'),
-  List: require('./list')
+  Close: require('./close'),
+  List: require('./list'),
+  Delete: require('./delete')
 };
